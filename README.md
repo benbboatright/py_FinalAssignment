@@ -1,5 +1,4 @@
 Peer-graded Assignment: Analyzing Historical Stock/Revenue Data and Building a Dashboard
-DeadlineOct 4, 11:59 PM PDT
 
 At this point please ensure you have completed the two previous yfinance and web scraping labs. In this assignment you will upload screenshots of your code and results. You will also be reviewing the submission for one of your peers and grading their work.
 
